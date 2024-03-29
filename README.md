@@ -10,3 +10,6 @@ https://my.numworks.com/python/tristan-gnl/autobahn
 
 Et enfin, une fonction utile pour créer rapidement des élements multicolors(voir exemples) :
 https://my.numworks.com/python/tristan-gnl/multicolor
+
+>[!NOTE]
+>Attention, les programmes sont plus ou moins optimisés pour l'émulateur en ligne.
